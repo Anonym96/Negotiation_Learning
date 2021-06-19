@@ -1,0 +1,7 @@
+# ninja log v5
+1	627	1621753204515026725	/home/ikhyuncho23/fairseq/build/temp.linux-x86_64-3.7/fairseq/clib/libbleu/module.o	db6ae02f3498347b
+1	687	1621753204575032142	/home/ikhyuncho23/fairseq/build/temp.linux-x86_64-3.7/fairseq/clib/libbleu/libbleu.o	cf24c5808d3d5911
+1	4200	1621753208911423685	/home/ikhyuncho23/fairseq/build/temp.linux-x86_64-3.7/fairseq/data/data_utils_fast.o	d41c44b3a680daa8
+0	4348	1621753213367825511	/home/ikhyuncho23/fairseq/build/temp.linux-x86_64-3.7/fairseq/data/token_block_utils_fast.o	cf56d09e84eef056
+1	18249	1621753231721480354	/home/ikhyuncho23/fairseq/build/temp.linux-x86_64-3.7/fairseq/clib/libbase/balanced_assignment.o	3b72df18b1dce8d8
+1	13860	1621753245850754309	/home/ikhyuncho23/fairseq/build/temp.linux-x86_64-3.7/fairseq/clib/libnat/edit_dist.o	f95b47970db74c30

@@ -1,0 +1,14 @@
+Namespace(align_suffix=None, alignfile=None, all_gather_list_size=16384, azureml_logging=False, bf16=False, bpe=None, cpu=False, criterion='cross_entropy', dataset_impl='mmap', destdir='data-bin/iwslt14.tokenized.es-en', dict_only=False, empty_cache_freq=0, fp16=False, fp16_init_scale=128, fp16_no_flatten_grads=False, fp16_scale_tolerance=0.0, fp16_scale_window=None, joined_dictionary=False, log_file=None, log_format=None, log_interval=100, lr_scheduler='fixed', memory_efficient_bf16=False, memory_efficient_fp16=False, min_loss_scale=0.0001, model_parallel_size=1, no_progress_bar=False, nwordssrc=-1, nwordstgt=-1, only_source=False, optimizer=None, padding_factor=8, plasma_path='/tmp/plasma', profile=False, quantization_config_path=None, reset_logging=False, scoring='bleu', seed=1, simul_type=None, source_lang='es', srcdict=None, suppress_crashes=False, target_lang='en', task='translation', tensorboard_logdir=None, testpref='examples/translation/iwslt14.tokenized.es-en/test', tgtdict=None, threshold_loss_scale=None, thresholdsrc=0, thresholdtgt=0, tokenizer=None, tpu=False, trainpref='examples/translation/iwslt14.tokenized.es-en/train', use_plasma_view=False, user_dir=None, validpref='examples/translation/iwslt14.tokenized.es-en/valid', wandb_project=None, workers=20)
+[es] Dictionary: 8504 types
+[es] examples/translation/iwslt14.tokenized.es-en/train.es: 169028 sents, 4170828 tokens, 0.0% replaced by <unk>
+[es] Dictionary: 8504 types
+[es] examples/translation/iwslt14.tokenized.es-en/valid.es: 7683 sents, 190280 tokens, 0.00788% replaced by <unk>
+[es] Dictionary: 8504 types
+[es] examples/translation/iwslt14.tokenized.es-en/test.es: 5593 sents, 128802 tokens, 0.0326% replaced by <unk>
+[en] Dictionary: 6816 types
+[en] examples/translation/iwslt14.tokenized.es-en/train.en: 169028 sents, 4192919 tokens, 0.0% replaced by <unk>
+[en] Dictionary: 6816 types
+[en] examples/translation/iwslt14.tokenized.es-en/valid.en: 7683 sents, 190810 tokens, 0.00786% replaced by <unk>
+[en] Dictionary: 6816 types
+[en] examples/translation/iwslt14.tokenized.es-en/test.en: 5593 sents, 131341 tokens, 0.00838% replaced by <unk>
+Wrote preprocessed data to data-bin/iwslt14.tokenized.es-en
